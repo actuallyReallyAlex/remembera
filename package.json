@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "A knowledge bank.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexlee-dev/remembera.git"
