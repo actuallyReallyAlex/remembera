@@ -2,7 +2,14 @@
 
 ## [Unreleased](https://github.com/alexlee-dev/remembera/tree/HEAD)
 
-[Full Changelog](https://github.com/alexlee-dev/remembera/compare/v0.1.1...HEAD)
+[Full Changelog](https://github.com/alexlee-dev/remembera/compare/v0.1.2...HEAD)
+
+**Implemented enhancements:**
+
+- Add a Change Log [\#1](https://github.com/alexlee-dev/remembera/issues/1)
+
+## [v0.1.2](https://github.com/alexlee-dev/remembera/tree/v0.1.2) (2018-09-24)
+[Full Changelog](https://github.com/alexlee-dev/remembera/compare/v0.1.1...v0.1.2)
 
 **Closed issues:**
 
