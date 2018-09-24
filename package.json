@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "A knowledge bank.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexlee-dev/remembera.git"
@@ -16,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alexlee-dev/remembera/issues"
   },
-  "homepage": "https://www.remembera.info/"
+  "homepage": "https://www.remembera.info/",
+  "devDependencies": {
+    "docz": "^0.11.2"
+  }
 }
