@@ -1,0 +1,20 @@
+---
+name: The Double Ampersand
+menu: React
+---
+
+# &&
+
+## Useful for asking a question and doing one thing if it's true.
+
+## Example
+
+_Render a paragraph tag if_ `visible` _is true in_ `props`_. Render nothing if it is not true in_ `props`_._
+
+```js
+const Example = (props) => {
+  return (
+    {props.visible && <p>This text is visible</p>}
+  )
+}
+```

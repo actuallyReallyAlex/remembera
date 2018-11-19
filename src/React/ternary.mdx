@@ -1,0 +1,20 @@
+---
+name: The Ternary
+menu: React
+---
+
+# question ? do if true : do if false
+
+## Useful for asking a question and doing something for true, and something else for false.
+
+## Example
+
+_Render a paragraph tag if_ `visible` _is true in_ `props`_. Render a different paragraph tag if it is not true in_ `props`_._
+
+```js
+const Example = (props) => {
+  return (
+    {props.visible ? <p>Visible is true.</p> : <p>Visible is false.</p>}
+  )
+}
+```

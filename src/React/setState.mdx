@@ -1,0 +1,50 @@
+---
+name: setState
+menu: React
+---
+
+# setState: Object vs. Function
+
+There are 2 ways to use `setState()`. One seems to be preferred.
+
+## Method 1: Passing an Object
+
+> Simple, but can run into trouble down the line.
+
+```js
+class ExampleClass extends React.Component {
+  state = {
+    count: 0
+  }
+
+  addOne() {
+    let { count } = this.state
+    count++
+    this.setState({ count })
+  }
+
+  {...}
+}
+```
+
+## Method 2: Passing a Function
+
+> Preferred. Less prone to errors.
+
+```js
+class ExampleClass extends React.Component {
+  state = {
+    count: 0
+  }
+
+  addOne() {
+    let { count } = this.state
+    count++
+    this.setState(() => {
+      return { count }
+    })
+  }
+
+  {...}
+}
+```
