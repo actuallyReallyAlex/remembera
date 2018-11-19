@@ -1,12 +1,15 @@
 # Change Log
 
-## [Unreleased](https://github.com/alexlee-dev/remembera/tree/HEAD)
-
-[Full Changelog](https://github.com/alexlee-dev/remembera/compare/v0.1.2...HEAD)
+## [v0.2.0](https://github.com/alexlee-dev/remembera/tree/v0.2.0) (2018-11-19)
+[Full Changelog](https://github.com/alexlee-dev/remembera/compare/v0.1.2...v0.2.0)
 
 **Implemented enhancements:**
 
 - Add a Change Log [\#1](https://github.com/alexlee-dev/remembera/issues/1)
+
+**Merged pull requests:**
+
+- Bump docz from 0.11.2 to 0.12.12 [\#4](https://github.com/alexlee-dev/remembera/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v0.1.2](https://github.com/alexlee-dev/remembera/tree/v0.1.2) (2018-09-24)
 [Full Changelog](https://github.com/alexlee-dev/remembera/compare/v0.1.1...v0.1.2)
