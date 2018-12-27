@@ -21,6 +21,6 @@
   },
   "homepage": "https://www.remembera.info/",
   "devDependencies": {
-    "docz": "^0.12.12"
+    "docz": "^0.13.7"
   }
 }
