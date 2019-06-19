@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=256px height=256px src="https://github.com/alexlee-dev/remembera/raw/master/remembera.svg" alt="remembera logo"></a>
+ <img width=256px height=256px src="https://github.com/alexlee-dev/remembera/raw/master/remembera.svg?sanitize=true" alt="remembera logo"></a>
 </p>
 
 <h3 align="center">remembera</h3>
